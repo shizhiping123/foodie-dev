@@ -1,7 +1,7 @@
 package com.imooc.enums;
 
 /**
- * @Desc: 商品评价等级 枚举
+ * @Desc: 商品评价等级 枚举    3333444555
  */
 public enum CommentLevel {
     GOOD(1, "好评"),
