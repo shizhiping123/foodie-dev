@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public Object hello(){
-        return "hello world~~~5522111222255556666111222";
+        return "hello world~~史志平~5522111222255556666111222";
     }
 }
