@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public Object hello(){
-        return "123";
+        return "123_456";
     }
 }
